@@ -59,4 +59,20 @@ print ["Ms. {}".format(name.split()[1]) for name in girls]
 
 # Can you do something similar for the boys' names?
 
+# Challenge
+# Uncomment the line below and see what it prints out.
+# Read through it and understand it for yourself.
+# print ["{} and {}".format(girls[i].split()[0], boys[i].split()[0]) for i in range(len(boys))]
 
+# Another way of doing something close to this output is the following.
+# Here, zip combines two lists into a new list of tuples with one element from each list.
+# The * on pair unpacks a tuple and puts the values into the placeholder {}.
+# Can you modify this code so that it only prints out the first name of each
+# person instead of their first AND last name?
+# print ["{} and {}".format(*pair) for pair in zip(boys, girls)]
+
+
+# SOLUTION
+# We can use another list comprehension inside of the string format to do what we want.
+# This code is just a combination of the code above.
+# print ["{} and {}".format(*[name.split()[0] for name in pair]) for pair in zip(boys, girls)]
