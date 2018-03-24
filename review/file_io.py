@@ -8,7 +8,6 @@
 
 with open("100_percent.txt") as fin, open("output.txt", 'w') as fout:
     for line in fin:
-        line = line.rstrip()
         print line
 
 
