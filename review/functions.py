@@ -18,9 +18,11 @@ def square(n):
 # Define a function peek that takes a file and prints out ONLY the first line.
 # We will need to do something similar to this later today.
 # Run the code and try it on a few files.
-def peek(in_file):
-    with open(in_file) as fin:
-        print fin.readline()
+##def peek( ... ):
+##    '''
+##        in - a file name
+##        out - the first line in the file
+##    '''
 
 
 # Modify peek so that it also prints out the length of the first line.
