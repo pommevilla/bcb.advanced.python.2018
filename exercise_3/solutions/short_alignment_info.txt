@@ -1,0 +1,20 @@
+Alignment score between JQ838000|idbi2921 and AJ319747|idbi777: 180
+Alignment score between JQ838000|idbi2921 and AM231806|idbi1134: 64
+Alignment score between JQ838000|idbi2921 and AM991327|idbi1006: 45
+Alignment score between JQ838000|idbi2921 and AM991329|idbi1194: 60
+Alignment score between JQ838000|idbi2921 and AY970968|idbi673: 62
+Alignment score between JQ838000|idbi2921 and CP003209|idbi2822: 225
+Alignment score between JQ838000|idbi2921 and DQ238104|idbi586: 62
+Alignment score between JQ838000|idbi2921 and DQ388126|idbi376: 85
+Alignment score between JQ838000|idbi2921 and EU247928|idbi1200: 75
+Alignment score between JQ838000|idbi2921 and EU687490|idbi984: 60
+Alignment score between JQ838000|idbi2921 and EU746498|idbi982: 55
+Alignment score between JQ838000|idbi2921 and EU746499|idbi981: 55
+Alignment score between JQ838000|idbi2921 and EU851865|idbi1487: 225
+Alignment score between JQ838000|idbi2921 and EU860402|idbi1262: 75
+Alignment score between JQ838000|idbi2921 and FJ172674|idbi1814: 165
+Alignment score between JQ838000|idbi2921 and FJ594416|idbi1842: 183
+Alignment score between JQ838000|idbi2921 and FJ715944|idbi2316: 195
+Alignment score between JQ838000|idbi2921 and GU731078|idbi2550: 165
+Alignment score between JQ838000|idbi2921 and HM589045|idbi2712: 165
+Gene best aligned with JQ838000|idbi2921 was CP003209|idbi2822 with alignment score of 225.
