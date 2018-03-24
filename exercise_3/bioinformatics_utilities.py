@@ -426,7 +426,7 @@ def read_fasta_file(fasta_file):
 
 
 if __name__ == '__main__':
-    genes = read_fasta_file('inti1.97.fasta')
+    genes = read_fasta_file('short.inti1.97.fasta')
     goi = genes[0]
     best_score = 0
     best_gene = ''
